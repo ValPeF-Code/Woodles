@@ -1,3 +1,4 @@
 # Woodles
 
-They eat, drink, reproduce, and behave naturally
+An evolution simulator.
+The bugs eat, drink, reproduce, and behave naturally.
